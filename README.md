@@ -95,8 +95,10 @@ index.php
 
 <img width="1565" height="441" alt="IMG-20260903-WA0005" src="https://github.com/user-attachments/assets/a72ad643-353a-4bef-b892-22030f87ec65" />
 
-2:- output 
+2:- output (no match)
 
 <img width="1506" height="510" alt="IMG-20260903-WA0003" src="https://github.com/user-attachments/assets/0cc0b517-1ead-4dec-ba33-ac36d7c408eb" />
 
+3:- output (matching number)
 
+<img width="720" height="679" alt="Screenshot_20260905-134238" src="https://github.com/user-attachments/assets/bfb655b0-eca5-4d07-aabe-ea3ea49807ec" />
