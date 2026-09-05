@@ -97,5 +97,6 @@ index.php
 
 2:- output 
 
+<img width="1506" height="510" alt="IMG-20260903-WA0003" src="https://github.com/user-attachments/assets/0cc0b517-1ead-4dec-ba33-ac36d7c408eb" />
 
 
