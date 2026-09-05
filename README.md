@@ -79,12 +79,12 @@ how user input, random number generation, comparison, and result display
 can be implemented in a web application. The project provides a basic understanding 
 of PHP and can be further enhanced with additional features.
 
-##project file
+## project file
 
 index.php
 
 
-##project output 
+## project output 
 
 1:- output 
 
