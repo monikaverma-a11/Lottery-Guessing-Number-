@@ -11,6 +11,7 @@ The entered numbers are then compared with the generated numbers, and the matchi
 displayed on the screen.
 
 ## Project Objective
+
 The main objective of this project is to create a simple and interactive number matching game 
 using PHP. It helps in understanding how user input is received through an HTML form and processed 
 using PHP.
@@ -45,12 +46,6 @@ Finally, the application displays:
 - Your Numbers
 - Matching Numbers
 - Total Matches
-
-## Project Structure
-
-Lottery Guessing Number/
-│
-└── index.php
 
 ## How to Run the Project
 
