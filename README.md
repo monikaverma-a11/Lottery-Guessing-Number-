@@ -79,3 +79,8 @@ of PHP and can be further enhanced with additional features.
 ##project file
 
 index.php
+
+
+##project output 
+
+<img width="1506" height="510" alt="IMG-20260903-WA0003" src="https://github.com/user-attachments/assets/a99afeb7-e1a5-447c-812e-48004993e994" />
